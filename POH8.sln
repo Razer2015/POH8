@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.26730.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POH8Data", "POH8Data\POH8Data.csproj", "{5428DCE8-C90E-44D8-A423-38364C0D1EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POH5Luokat", "POH5Luokat\POH5Luokat.csproj", "{4CB192FE-1165-4C0F-A9DB-407E4B3C9230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POH8Testeri", "POH8Testeri\POH8Testeri.csproj", "{24D876AC-3D4C-4598-B229-036762872FD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5428DCE8-C90E-44D8-A423-38364C0D1EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5428DCE8-C90E-44D8-A423-38364C0D1EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5428DCE8-C90E-44D8-A423-38364C0D1EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CB192FE-1165-4C0F-A9DB-407E4B3C9230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CB192FE-1165-4C0F-A9DB-407E4B3C9230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CB192FE-1165-4C0F-A9DB-407E4B3C9230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CB192FE-1165-4C0F-A9DB-407E4B3C9230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D876AC-3D4C-4598-B229-036762872FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D876AC-3D4C-4598-B229-036762872FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D876AC-3D4C-4598-B229-036762872FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D876AC-3D4C-4598-B229-036762872FD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
